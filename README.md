@@ -1,7 +1,5 @@
 <div align="center">
   
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
-
 Languages and frameworks
   
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -28,8 +26,9 @@ Want to learn
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
 [![TETR.IO](https://img.shields.io/badge/TETR.IO-GENER1C-blueviolet?style=flat)](https://ch.tetr.io/u/gener1c)  
 [![Telegram](https://img.shields.io/badge/Telegram-gener1c-blue?style=flat&logo=telegram)](https://t.me/gener1c)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
 
-<img src="https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=g3ner1c&theme=dracula" />
+<img style="float: left; width: 49%" src="https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula" />
+<img style="float: right; width: 49%" src="https://github-readme-streak-stats.herokuapp.com?user=g3ner1c&theme=dracula" />
 
 </div>
