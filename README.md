@@ -1,17 +1,32 @@
 <div align="center">
   
-![Generic's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula)
+![](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
   
+![Generic's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=g3ner1c&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3ner1c&layout=compact&langs_count=10&theme=dracula)
-
-![](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
+Languages and frameworks
+  
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
+  
+Learning
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ 
+Want to learn
+  
+  ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+  ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
 [![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat&logo=arch-linux)](https://archlinux.org)
 [![ArchWSL](https://img.shields.io/badge/OS-ArchWSL-blue?style=flat&logo=arch-linux)](https://github.com/yuk7/ArchWSL)
-[![Windows10](https://img.shields.io/badge/OS-Windows_10-blue?style=flat&logo=windows)](https://www.microsoft.com)
-[![VSCode](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![Windows 10](https://img.shields.io/badge/OS-Windows_10-blue?style=flat&logo=windows)](https://www.microsoft.com)
+[![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![GNU Bash](https://img.shields.io/badge/Shell-GNU_Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
 [![TETR.IO](https://img.shields.io/badge/TETR.IO-GENER1C-blueviolet?style=flat)](https://ch.tetr.io/u/gener1c)
