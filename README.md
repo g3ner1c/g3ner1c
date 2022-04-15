@@ -1,9 +1,6 @@
 <div align="center">
   
-![](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
-  
-![Generic's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=g3ner1c&theme=dracula)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
 
 Languages and frameworks
   
@@ -27,10 +24,12 @@ Want to learn
 [![Windows 10](https://img.shields.io/badge/OS-Windows_10-blue?style=flat&logo=windows)](https://www.microsoft.com)
 [![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![GNU Bash](https://img.shields.io/badge/Shell-GNU_Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
-[![TETR.IO](https://img.shields.io/badge/TETR.IO-GENER1C-blueviolet?style=flat)](https://ch.tetr.io/u/gener1c)
   
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
+[![TETR.IO](https://img.shields.io/badge/TETR.IO-GENER1C-blueviolet?style=flat)](https://ch.tetr.io/u/gener1c)  
 [![Telegram](https://img.shields.io/badge/Telegram-gener1c-blue?style=flat&logo=telegram)](https://t.me/gener1c)
+
+<img src="https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=g3ner1c&theme=dracula" />
 
 </div>
