@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-F78DA7?Style=flat)](https://en.pronouns.page/@gener1c)
+[![Pronoun Card](https://img.shields.io/badge/Pronoun_Card-she%2Fher-F78DA7?Style=flat)](https://en.pronouns.page/@gener1c)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
   
 Languages and frameworks
