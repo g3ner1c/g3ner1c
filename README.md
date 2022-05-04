@@ -20,6 +20,7 @@ Want to learn
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![ElectronJS](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
   
 [![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat&logo=arch-linux)](https://archlinux.org)
 [![ArchWSL](https://img.shields.io/badge/OS-ArchWSL-blue?style=flat&logo=arch-linux)](https://github.com/yuk7/ArchWSL)
