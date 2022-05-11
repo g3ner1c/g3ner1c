@@ -21,6 +21,7 @@ Want to learn
   ![ElectronJS](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
 [![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat&logo=arch-linux)](https://archlinux.org)
 [![ArchWSL](https://img.shields.io/badge/OS-ArchWSL-blue?style=flat&logo=arch-linux)](https://github.com/yuk7/ArchWSL)
