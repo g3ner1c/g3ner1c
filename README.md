@@ -32,7 +32,6 @@ Want to learn
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
 [![TETR.IO](https://img.shields.io/badge/TETR.IO-GENER1C-blueviolet?style=flat)](https://ch.tetr.io/u/gener1c)
-[![Git GPG public key](https://img.shields.io/badge/Git-GPG_Key-E44C30?style=flat&logo=git)](https://gist.githubusercontent.com/g3ner1c/3cad444f0ce51cd5c886b7d4c5ead6a5/raw/11a1036544ffd96ff68db51ab4f3fb7e067b991d/git_public.key)
 [![Telegram](https://img.shields.io/badge/Telegram-gener1c-blue?style=flat&logo=telegram)](https://t.me/gener1c)
 
 
