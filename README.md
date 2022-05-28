@@ -33,6 +33,7 @@ Want to learn
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
 [![TETR.IO](https://img.shields.io/badge/TETR.IO-GENER1C-blueviolet?style=flat)](https://ch.tetr.io/u/gener1c)
 [![Telegram](https://img.shields.io/badge/Telegram-gener1c-blue?style=flat&logo=telegram)](https://t.me/gener1c)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-g3ner1c--sky-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:g3ner1c-sky@pm.me)
 
 
 <img style="float: left; width: 49%" src="https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula" />
