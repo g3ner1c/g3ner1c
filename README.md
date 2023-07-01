@@ -1,19 +1,17 @@
 <div align="center">
   
 [![Pronoun card](https://img.shields.io/badge/Pronoun_card-she%2Fher-F78DA7?Style=flat)](https://en.pronouns.page/@gener1c)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=g3ner1c.g3ner1c)
   
 Languages and frameworks
   
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
 Knows a bit of
   
   ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  
 Wants to learn
   
