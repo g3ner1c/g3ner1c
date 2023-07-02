@@ -33,7 +33,7 @@ Wants to learn
 [![PyPI](https://img.shields.io/badge/PyPI-g3ner1c-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/g3ner1c/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-g3ner1c--sky-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:g3ner1c-sky@pm.me)
 [![Telegram](https://img.shields.io/badge/Telegram-gener1c-blue?style=flat&logo=telegram)](https://t.me/gener1c)
-![Discord](https://img.shields.io/badge/Discord-g3ner1c.sky-5865F2?style=flat&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-g3ner1c.sky-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/538921994645798915)
 
 
 <img style="float: left; width: 49%" src="https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula" />
