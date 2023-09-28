@@ -26,7 +26,6 @@ Wants to learn
 [![ArchWSL](https://img.shields.io/badge/OS-ArchWSL-blue?style=flat&logo=arch-linux)](https://github.com/yuk7/ArchWSL)
 [![Windows 10](https://img.shields.io/badge/OS-Windows_10-blue?style=flat&logo=windows)](https://www.microsoft.com)
 [![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![GNU Bash](https://img.shields.io/badge/Shell-GNU_Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849263860)
