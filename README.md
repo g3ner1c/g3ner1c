@@ -34,8 +34,4 @@ Wants to learn
 [![Telegram](https://img.shields.io/badge/Telegram-gener1c-blue?style=flat&logo=telegram)](https://t.me/gener1c)
 [![Discord](https://img.shields.io/badge/Discord-g3ner1c.sky-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/538921994645798915)
 
-
-<img style="float: left; width: 49%" src="https://github-readme-stats.vercel.app/api?username=g3ner1c&count_private=true&show_icons=true&theme=dracula" />
-<img style="float: right; width: 49%" src="https://github-readme-streak-stats.herokuapp.com?user=g3ner1c&theme=dracula" />
-
 </div>
